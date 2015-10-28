@@ -3,7 +3,7 @@ inherit cross
 
 NAME="mingw64-x86_64-flac"
 VERSION=1.3.1
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="Xiph FLAC codec for Win64 toolchain"
 DESCRIPTION="FLAC stands for Free Lossless Audio Codec, an audio format similar
